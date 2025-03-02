@@ -66,4 +66,4 @@
 ### 📬 Contact  
 
 📧 Email: leeseorim0029@email.com  
-📝 Blog: [Velog](https://velog.io/@yourusername)  
+📝 Blog: [Velog](https://velog.io/@leeseoleem1014)  
