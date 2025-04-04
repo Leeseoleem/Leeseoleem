@@ -57,8 +57,8 @@
 ### 📊 GitHub Stats  
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=leeseorim&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leeseorim&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leeseoleem&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leeseoleem&theme=tokyonight"/>
 </p>
 
 ---
