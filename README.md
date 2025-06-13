@@ -46,7 +46,7 @@
 
 > **학습 퀴즈 앱** – React Native + Firebase 기반
 > 개인 프로젝트 | 문제 풀이, 공유, 통계 기능 포함
-> 🔗 \[GitHub Repo](https://github.com/Leeseoleem/quizlab) | \[Figma Design](https://www.figma.com/proto/d5X4xySFdeqhXXMhwswDKe/QuizLab-design?page-id=5%3A310&node-id=270-3658&viewport=744%2C651%2C0.17&t=kfCwwFgvez4lWqIT-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=242%3A2990)
+> 🔗 \[[GitHub Repo](https://github.com/Leeseoleem/quizlab)[ | \[[Figma Design](https://www.figma.com/proto/d5X4xySFdeqhXXMhwswDKe/QuizLab-design?page-id=5%3A310&node-id=270-3658&viewport=744%2C651%2C0.17&t=kfCwwFgvez4lWqIT-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=242%3A2990)[
 
 ---
 
