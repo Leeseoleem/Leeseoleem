@@ -24,15 +24,29 @@
 
 ---
 
-### 🚀 Featured Projects  
+### 👥 Team Projects
 
-#### 🌱 채식 어디 (Graduation Project)  
-> React Native로 개발한 채식 추천 애플리케이션  
-🔗 [[GitHub Repo](https://github.com/yourusername/채식어디)](https://github.com/VRRS-Project-Team-GitPage) | 📱 [Figma Design]([https://figma.com/yourdesign](https://www.figma.com/proto/Iw4NxpHMFiyFo3bWT6CF3W/%EC%BA%A1%EC%8A%A4%ED%86%A4-%EB%94%94%EC%9E%90%EC%9D%B8-UI-%EC%B5%9C%EC%A2%85?page-id=2%3A647&node-id=2-1016&viewport=-1006%2C617%2C0.56&t=QrVBhkHL52KxprZd-1&scaling=contain&content-scaling=fixed))
+#### 🌱 채식 어디 (Graduation Project)
 
-#### 💬 Glassbottle (익명 소통 앱)  
-> Team Bluepot에서 개발한 익명 커뮤니케이션 앱 (출시 예정)  
-🔗 [[GitHub Repo](https://github.com/yourusername/glassbottle)](https://github.com/T-BluePot/GlassBottle) | 🚀 [Coming Soon]
+> **채식 음식 추천 애플리케이션** – React Native 기반
+> 팀 프로젝트 | 팀장 및 프론트엔드 담당
+> 🔗 \[[GitHub Repo](https://github.com/VRRS-Project-Team-GitPage)] | 📱 [Figma Design](https://www.figma.com/proto/Iw4NxpHMFiyFo3bWT6CF3W/%EC%BA%A1%EC%8A%A4%ED%86%A4-%EB%94%94%EC%9E%90%EC%9D%B8-UI-%EC%B5%9C%EC%A2%85?page-id=2%3A647&node-id=2-1016&viewport=-1006%2C617%2C0.56&t=QrVBhkHL52KxprZd-1&scaling=contain&content-scaling=fixed)
+
+#### 💬 Glassbottle
+
+> **익명 소통 기반 커뮤니케이션 앱** – React Native 기반
+> 팀 프로젝트 | Team Bluepot 소속
+> 🔗 \[[GitHub Repo](https://github.com/T-BluePot/GlassBottle)] | 🚀 Coming Soon
+
+---
+
+### 🙋‍♂️ Personal Projects
+
+#### 📊 QuizLab
+
+> **학습 퀴즈 앱** – React Native + Firebase 기반
+> 개인 프로젝트 | 문제 풀이, 공유, 통계 기능 포함
+> 🔗 \[GitHub Repo](https://github.com/Leeseoleem/quizlab) | \[Figma Design](https://www.figma.com/proto/d5X4xySFdeqhXXMhwswDKe/QuizLab-design?page-id=5%3A310&node-id=270-3658&viewport=744%2C651%2C0.17&t=kfCwwFgvez4lWqIT-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=242%3A2990)
 
 ---
 
