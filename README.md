@@ -38,6 +38,12 @@
 > 팀 프로젝트 | Team Bluepot 소속
 > 🔗 \[[GitHub Repo](https://github.com/T-BluePot/GlassBottle)] | 🚀 Coming Soon
 
+#### 💬 바로가기 | Barogagi
+
+> **ai 기반 일정 추천 앱** – React(웹앱) 기반
+> 팀 프로젝트 | Team Bluepot 소속
+> 🔗 \[[GitHub Repo](https://github.com/T-BluePot/barogagi-front)] | 🚀 Coming Soon
+
 ---
 
 ### 🙋‍♂️ Personal Projects
