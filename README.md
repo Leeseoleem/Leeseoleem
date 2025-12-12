@@ -95,13 +95,19 @@ React · TypeScript · Tailwind CSS · GitHub Pages
 > **AI 기반 여행 일정 추천 웹 앱** – React 기반  
 > Team Bluepot 프로젝트
 
+**✨ Key Features**  
+- 사용자의 여행 스타일(테마·지역·분위기)을 기반으로 **AI가 자동으로 여행 일정을 생성**  
+- 일정 생성 후 일자별로 구성된 **Drag & Drop 일정 편집 UI**  
+- 검색 기록, 태그 기반 필터링을 활용한 **장소 검색 및 추천 기능**  
+- 반응형 디자인과 컴포넌트 시스템을 활용한 **웹앱 중심 UI/UX 구조**
+
 **🔧 Tech Stack**  
 front | React · TypeScript · tailwind · Vite · Storybook
 
 **🧩 My Role**  
 - 전체 UI/UX 플로우 및 화면 구조 설계  
 - 메인/일정 리스트/태그 선택/장소 검색 등 핵심 화면 구현  
-- 컴포넌트 단위 설계 및 재사용 가능한 레이아웃 구성  
+- 컴포넌트 단위 설계 및 재사용 가능한 레이아웃 구성
 
 🔗 [GitHub Repo](https://github.com/T-BluePot/barogagi-front) · 🚀 Coming Soon(배포 예정)
 
@@ -128,9 +134,13 @@ React · TypeScript · Tailwind CSS
 > **익명 소통 기반 커뮤니케이션 앱** – React Native
 > Team Bluepot 프로젝트
 
+**✨ Key Features**  
+- 이름 없이 자유롭게 소통할 수 있는 **익명 기반 메시지 시스템**  
+- 사용자 간 부드러운 흐름을 위한 **모달·전환 애니메이션 중심 UI**
+
 **🧩 My Role**
 
-* UI 컴포넌트 구현
+* UI/UX 컴포넌트 구현
 * 모달/상호작용 UI 개발
 * Firebase 인증 및 데이터 연동
 
@@ -145,32 +155,30 @@ React · TypeScript · Tailwind CSS
 > **채식 음식 추천 앱** – Expo 기반
 > 팀 프로젝트 | 팀장 및 프론트엔드 개발
 
+**✨ Key Features**  
+- 다양한 채식 유형(락토, 오보, 비건 등)에 따라 섭취 가능한 음식 정보를 확인할 수 있는 채식 타입 필터 기능  
+- 사용자가 촬영한 제품 뒷면 **원재료명 사진을 분석**하여, 본인의 채식 유형 기준으로 섭취 가능 여부를 판별해주는 기능  
+- 오늘 뭐 먹을지 고민될 때 활용할 수 있는 **랜덤 음식 추천 기능** 제공
+
 **🔧 Tech Stack**
 front | Expo · javascript · StyleSheet · Figma
 back | Spring Boot · Clover OCR 
 
 **🧩 My Role**
 
-* UI/UX 설계 및 전체 화면 구현
+* UI/UX 전반 설계 및 전체 화면 구현
 * Firebase 연동 및 데이터 구조 설계
 * 팀 일정·작업 분배 총괄 (팀장 역할)
 * 공통 컴포넌트 구조 설계
 
-**✨ Key Features**
-
-* 다양한 채식
-* 즐겨찾기 / 검색 기능
-
-🔗 [GitHub Repo](https://github.com/VRRS-Project-Team-GitPage) · [Figma Design](https://www.figma.com/proto/Iw4NxpHMFiyFo3bWT6CF3W/%EC%BA%A1%EC%8A%A4%ED%86%A4-%EB%94%94%EC%9E%90%EC%9D%B8-UI-%EC%B5%9C%EC%A2%85?page-id=2%3A647&node-id=2-1016&viewport=-1006%2C617%2C0.56&t=QrVBhkHL52KxprZd-1&scaling=contain&content-scaling=fixed)
+🔗 [GitHub Repo](https://github.com/VRRS-Project-Team-GitPage) · [Figma Design](https://www.figma.com/proto/Iw4NxpHMFiyFo3bWT6CF3W/%EC%BA%A1%EC%8A%A4%ED%86%A4-%EB%94%94%EC%9E%90%EC%9D%B8-UI-%EC%B5%9C%EC%A2%85?page-id=2%3A647&node-id=2-1016&viewport=-1006%2C617%2C0.56&t=QrVBhkHL52KxprZd-1&scaling=contain&content-scaling=fixed) · [Youtube](https://youtu.be/PUEc9VYo3kM?si=KGFWudiny2r6Xl3i)
 
 ---
 
-
 ### 📊 GitHub Stats  
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=leeseoleem&show_icons=true&theme=tokyonight"/>
-</p>
+[![Seorim's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseoleem&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### 📬 Contact  
