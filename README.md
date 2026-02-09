@@ -35,8 +35,8 @@ UI/UX의 일관성과 세밀한 설계가 좋은 제품을 만든다고 믿기 �
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
 </p>
 
-📌 **GraphQL** – 효율적인 API 요청과 데이터 관리  
-📌 **Framer Motion** – React 애니메이션 구현
+📌 **GraphQL** – 효율적인 API 요청과 데이터 관리 <br/>
+📌 **Framer Motion** – React 애니메이션 구현 <br/>
 📌 **Three.js** – WebGL 기반 3D 개발  
 
 ---
