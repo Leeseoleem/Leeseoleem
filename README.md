@@ -22,7 +22,7 @@ UI/UX의 일관성과 세밀한 설계가 좋은 제품을 만든다고 믿기 �
 | Category | Tech |
 | --- | --- |
 | 🧩 Frameworks | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/> |
-| 🧰 Tools & Libraries | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white"/> <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Moti-000000?style=flat-square"/> |
+| 🧰 Tools & Libraries | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white"/> <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/> <img src="https://img.shields.io/badge/Moti-000000?style=flat-square"/> |
 | 💻 Languages | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> |
 | 🎨 Design & UI | <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> |
 
@@ -31,12 +31,10 @@ UI/UX의 일관성과 세밀한 설계가 좋은 제품을 만든다고 믿기 �
 
 <p align="left">
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
 </p>
 
 📌 **GraphQL** – 효율적인 API 요청과 데이터 관리 <br/>
-📌 **Framer Motion** – React 애니메이션 구현 <br/>
 📌 **Three.js** – WebGL 기반 3D 개발  
 
 ---
