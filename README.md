@@ -26,93 +26,98 @@ UI/UX의 일관성과 세밀한 설계가 좋은 제품을 만든다고 믿기 �
 | 💻 Languages | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> |
 | 🎨 Design & UI | <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> |
 
-
-### 🎯 도전해볼 스킬  
-
-<p align="left">
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
-</p>
-
-📌 **GraphQL** – 효율적인 API 요청과 데이터 관리 <br/>
-📌 **Three.js** – WebGL 기반 3D 개발  
-
 ---
 
 # 🙋‍♂️ Personal Projects
 
-### 🎂 나의 작은 생일 파티
+## 🎂 <a href="https://github.com/Leeseoleem/my-little-birthday-party" target="_blank">나의 작은 생일 파티</a>
 
-> **인터랙티브 생일 메시지 웹 서비스** – React + Supabase
+> **인터랙티브 생일 메시지 웹 서비스** – React + Supabase  
 > 메시지를 보내는 대신, 하나의 경험을 선물하는 생일 카드 플랫폼
 
-**🔧 Tech Stack**
+**🔧 Tech Stack**  
 React 18 · TypeScript · Vite · TanStack Router · Tailwind CSS v4 · Framer Motion · Supabase (Postgres + RLS + Anonymous Auth) · Vercel · Storybook · Vitest · Playwright
 
-**🧩 My Role**
+<details>
+  <summary><b>자세히 보기</b></summary>
 
-* 기획 → UX 설계 → UI 디자인 → 프론트엔드 개발 전체 단독 진행
-* Supabase DB 스키마 설계 및 RLS 정책 구성
-* PIN 기반 1회성 이벤트 로직 설계 (`isOpened` 상태 제어)
-* 제작자 / 수신자 분리된 라우팅 구조 설계
-* 케이크 인터랙션, 초 끄기 이벤트, 파티 연출 애니메이션 구현
-* RPC 기반 PIN 검증 및 보안 접근 흐름 설계
-* Storybook 기반 컴포넌트 단위 개발 및 문서화
+**🧩 My Role**
+- 기획 → UX 설계 → UI 디자인 → 프론트엔드 개발 전체 단독 진행
+- Supabase DB 스키마 설계 및 RLS 정책 구성
+- PIN 기반 1회성 이벤트 로직 설계 (`isOpened` 상태 제어)
+- 제작자 / 수신자 분리된 라우팅 구조 설계
+- 케이크 인터랙션, 초 끄기 이벤트, 파티 연출 애니메이션 구현
+- RPC 기반 PIN 검증 및 보안 접근 흐름 설계
+- Storybook 기반 컴포넌트 단위 개발 및 문서화
 
 **✨ Key Features**
-
-* 단계별 제작 플로우 (이름·생일 입력 → 케이크 제작 → 캐릭터 선택 → 편지 작성 → 링크 생성)
-* PIN(MMDD) 기반 접근 제어 및 1회성 이벤트 설계
-* 초 끄기 인터랙션 (마우스 기반 / 마이크 확장 설계)
-* 케이크·캐릭터·편지 클릭 상호작용 구조
-* 재접속 시 파티 페이지 직행 로직 (`isOpened` 서버 제어)
-* Supabase Anonymous Auth + RLS 기반 최소 권한 데이터 접근
+- 단계별 제작 플로우 (이름·생일 입력 → 케이크 제작 → 캐릭터 선택 → 편지 작성 → 링크 생성)
+- PIN(MMDD) 기반 접근 제어 및 1회성 이벤트 설계
+- 초 끄기 인터랙션 (마우스 기반 / 마이크 확장 설계)
+- 케이크·캐릭터·편지 클릭 상호작용 구조
+- 재접속 시 파티 페이지 직행 로직 (`isOpened` 서버 제어)
+- Supabase Anonymous Auth + RLS 기반 최소 권한 데이터 접근
 
 🔗 [GitHub Repo](https://github.com/Leeseoleem/my-little-birthday-party) | [Design Document](...) | [Live Demo](https://my-little-birthday-party.vercel.app/)
 
+</details>
+
 ---
 
-### 📊 QuizLab
+## 📊 <a href="..." target="_blank">QuizLab</a>  *(Paused / Archived)*
 
-> **학습 퀴즈 앱** – Expo + Firebase
+> **학습 퀴즈 앱** – Expo + Firebase  
 > 문제 제작 · 풀이 · 통계까지 가능한 학습용 앱
 
 **🔧 Tech Stack**  
-Expo · TypeScript · Nativewind(tailwind) · Firebase · (검색/통계 관련 로직 설계)
+Expo · TypeScript · Nativewind(Tailwind) · Firebase · (검색/통계 관련 로직 설계)
+
+<details>
+  <summary><b>자세히 보기</b></summary>
+
+**📌 Status: 중단(보류)**
+- **중단 사유:** Expo SDK/버전 업데이트 과정에서 **의존성 충돌 및 Firebase 연동 오류**가 반복적으로 발생하여, 안정적인 개발 환경을 재정비하기 위해 보류했습니다.
+- **추후 계획:** 기능 방향을 확장하여 **웹(React 또는 Next.js)** 기반으로 재구성할 가능성이 있습니다. 특히 **AI가 문제를 생성/추천**하는 기능을 중심으로 재설계를 고려 중입니다.
 
 **🧩 My Role**
-
-* 디자인 → 개발 전체 단일 개발
-* Firestore 스키마 설계
-* 문제 풀이 로직, 타이머 모드, 통계 기능 직접 설계
-* Meilisearch 기반 검색 기능 구축
-* Lottie 기반 인터랙션 UI 개발
+- 디자인 → 개발 전체 단일 개발
+- Firestore 스키마 설계
+- 문제 풀이 로직, 타이머 모드, 통계 기능 직접 설계
+- Meilisearch 기반 검색 기능 구축
+- Lottie 기반 인터랙션 UI 개발
 
 **✨ Key Features**
-
-* 커스텀 문제집 생성
-* 시간 제한 모드 / 자유 모드
-* 문제 통계 및 오답 노트
-* 폴더 공유 기능 준비 중
+- 커스텀 문제집 생성
+- 시간 제한 모드 / 자유 모드
+- 문제 통계 및 오답 노트
+- 폴더 공유 기능 준비 중
 
 🔗 [GitHub Repo](...) | [Figma Design](...)
 
+</details>
+
 ---
 
-### 🧑‍💻 Personal Portfolio
+## 🧑‍💻 <a href="https://github.com/Leeseoleem/leeseoleem-portfolio" target="_blank">Personal Portfolio</a>
+
 > **개인 포트폴리오 웹 사이트** – React + TypeScript + Tailwind 기반  
 > 실제 배포 완료(Resume/Projects/Contact 정리)
 
 **🔧 Tech Stack**  
 React · TypeScript · Tailwind CSS · GitHub Pages
 
-**🧩 My Role**  
-- 전체 정보 구조(About · Projects · Skills · Contact) 설계  
-- 반응형 레이아웃 및 컴포넌트 기반 UI 구현  
-- 색상·타이포·여백을 통합한 개인용 디자인 시스템 정리  
+<details>
+  <summary><b>자세히 보기</b></summary>
+
+**🧩 My Role**
+- 전체 정보 구조(About · Projects · Skills · Contact) 설계
+- 반응형 레이아웃 및 컴포넌트 기반 UI 구현
+- 색상·타이포·여백을 통합한 개인용 디자인 시스템 정리
 - GitHub Pages를 활용한 CI/CD 및 배포
 
 🔗 [GitHub Repo](https://github.com/Leeseoleem/leeseoleem-portfolio) · 🌐 [Live Site](https://leeseoleem.github.io/leeseoleem-portfolio/)
+
+</details>
 
 ---
 
@@ -120,87 +125,114 @@ React · TypeScript · Tailwind CSS · GitHub Pages
 
 ## 🩵 BluePot
 
-### 🧭 바로가기 | Barogagi
+### 🧭 <a href="https://github.com/T-BluePot/barogagi-front" target="_blank">바로가기 | Barogagi</a>
+
 > **AI 기반 여행 일정 추천 웹 앱** – React 기반  
 > Team Bluepot 프로젝트
 
-**✨ Key Features**  
-- 사용자의 여행 스타일(테마·지역·분위기)을 기반으로 **AI가 자동으로 여행 일정을 생성**  
-- 일정 생성 후 일자별로 구성된 **Drag & Drop 일정 편집 UI**  
-- 검색 기록, 태그 기반 필터링을 활용한 **장소 검색 및 추천 기능**  
-- 반응형 디자인과 컴포넌트 시스템을 활용한 **웹앱 중심 UI/UX 구조**
+**🔧 Tech Stack (Front-end 담당 영역)**  
+React · TypeScript · Tailwind · Vite · Storybook · TanStack Query
 
-**🔧 Tech Stack**  
-front | React · TypeScript · tailwind · Vite · Storybook
+<details>
+  <summary><b>자세히 보기</b></summary>
 
-**🧩 My Role**  
-- 전체 UI/UX 플로우 및 화면 구조 설계  
-- 메인/일정 리스트/태그 선택/장소 검색 등 핵심 화면 구현  
+**✨ Key Features**
+- 사용자의 여행 스타일(테마·지역·분위기)을 기반으로 AI 일정 추천
+- 일정 생성 후 일자별 구성 Drag & Drop 편집 UI
+- 태그 기반 필터링 및 장소 검색 기능
+- 서버 연동 기반 데이터 관리 구조 설계
+
+**🧩 My Role**
+- 전체 UI/UX 플로우 및 화면 구조 설계
+- 메인 페이지 및 **일정 생성 핵심 기능 구현**
+- 전화번호 기반 일반 회원가입 로직 구현 (OAuth와 별도 구조)
+- 회원가입/인증 흐름에 따른 상태 설계 및 서버 API 연동
+- TanStack Query를 활용한 서버 상태 관리 및 비동기 데이터 처리 구조 설계
+- 일정 생성/수정 관련 API 연동 및 데이터 흐름 설계
 - 컴포넌트 단위 설계 및 재사용 가능한 레이아웃 구성
 
 🔗 [GitHub Repo](https://github.com/T-BluePot/barogagi-front) · 🚀 Coming Soon(배포 예정)
 
+</details>
+
 ---
 
-### 🧩 Team Bluepot Portfolio
+### 🧩 <a href="https://github.com/T-BluePot/portfolio" target="_blank">Team Bluepot Portfolio</a>
+
 > **Team Bluepot 소개 및 프로젝트 모음 페이지** – 웹 포트폴리오 사이트  
 > 팀 프로젝트 | 팀 전용 포트폴리오 제작
 
 **🔧 Tech Stack**  
-React · TypeScript · Tailwind CSS 
+React · TypeScript · Tailwind CSS
 
-**🧩 My Role**  
-- 팀 아이덴티티를 반영한 레이아웃 및 UI 설계  
-- 프로젝트 카드·타임라인 등 소개 컴포넌트 구현  
+<details>
+  <summary><b>자세히 보기</b></summary>
+
+**🧩 My Role**
+- 팀 아이덴티티를 반영한 레이아웃 및 UI 설계
+- 프로젝트 카드·타임라인 등 소개 컴포넌트 구현
 - 팀 프로젝트 구조와 역할을 정리한 콘텐츠 구성
 
 🔗 [GitHub Repo](https://github.com/T-BluePot/portfolio)
 
+</details>
+
 ---
 
-### 💬 Glassbottle
+### 💬 <a href="https://github.com/T-BluePot/GlassBottle" target="_blank">Glassbottle</a>
 
-> **익명 소통 기반 커뮤니케이션 앱** – React Native
+> **익명 소통 기반 커뮤니케이션 앱** – React Native  
 > Team Bluepot 프로젝트
 
-**✨ Key Features**  
-- 이름 없이 자유롭게 소통할 수 있는 **익명 기반 메시지 시스템**  
+**🔧 Tech Stack**  
+React Native · Firebase
+
+<details>
+  <summary><b>자세히 보기</b></summary>
+
+**✨ Key Features**
+- 이름 없이 자유롭게 소통할 수 있는 **익명 기반 메시지 시스템**
 - 사용자 간 부드러운 흐름을 위한 **모달·전환 애니메이션 중심 UI**
 
 **🧩 My Role**
-
-* UI/UX 컴포넌트 구현
-* 모달/상호작용 UI 개발
-* Firebase 인증 및 데이터 연동
+- UI/UX 컴포넌트 구현
+- 모달/상호작용 UI 개발
+- Firebase 인증 및 데이터 연동
 
 🔗 [GitHub Repo](https://github.com/T-BluePot/GlassBottle)
+
+</details>
 
 ---
 
 ## 🎓 Graduation Project
 
-### 🌱 채식 어디 
+### 🌱 <a href="https://github.com/VRRS-Project-Team-GitPage" target="_blank">채식 어디</a>
 
-> **채식 음식 추천 앱** – Expo 기반
+> **채식 음식 추천 앱** – Expo 기반  
 > 팀 프로젝트 | 팀장 및 프론트엔드 개발
 
-**✨ Key Features**  
-- 다양한 채식 유형(락토, 오보, 비건 등)에 따라 섭취 가능한 음식 정보를 확인할 수 있는 채식 타입 필터 기능  
-- 사용자가 촬영한 제품 뒷면 **원재료명 사진을 분석**하여, 본인의 채식 유형 기준으로 섭취 가능 여부를 판별해주는 기능  
-- 오늘 뭐 먹을지 고민될 때 활용할 수 있는 **랜덤 음식 추천 기능** 제공
+**🔧 Tech Stack**  
+front | Expo · JavaScript · StyleSheet · Figma  
+back | Spring Boot · Clover OCR
 
-**🔧 Tech Stack**
-front | Expo · javascript · StyleSheet · Figma
-back | Spring Boot · Clover OCR 
+<details>
+  <summary><b>자세히 보기</b></summary>
+
+**✨ Key Features**
+- 채식 유형(락토, 오보, 비건 등) 기준 필터 기능
+- 원재료명 사진 분석을 통한 섭취 가능 여부 판별
+- 랜덤 음식 추천 기능
 
 **🧩 My Role**
-
-* UI/UX 전반 설계 및 전체 화면 구현
-* Firebase 연동 및 데이터 구조 설계
-* 팀 일정·작업 분배 총괄 (팀장 역할)
-* 공통 컴포넌트 구조 설계
+- UI/UX 전반 설계 및 전체 화면 구현
+- Firebase 연동 및 데이터 구조 설계
+- 팀 일정·작업 분배 총괄 (팀장 역할)
+- 공통 컴포넌트 구조 설계
 
 🔗 [GitHub Repo](https://github.com/VRRS-Project-Team-GitPage) · [Figma Design](https://www.figma.com/proto/Iw4NxpHMFiyFo3bWT6CF3W/%EC%BA%A1%EC%8A%A4%ED%86%A4-%EB%94%94%EC%9E%90%EC%9D%B8-UI-%EC%B5%9C%EC%A2%85?page-id=2%3A647&node-id=2-1016&viewport=-1006%2C617%2C0.56&t=QrVBhkHL52KxprZd-1&scaling=contain&content-scaling=fixed) · [Youtube](https://youtu.be/PUEc9VYo3kM?si=KGFWudiny2r6Xl3i)
+
+</details>
 
 ---
 
